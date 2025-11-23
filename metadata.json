@@ -1,0 +1,7 @@
+{
+  "name": "NeuroClassify - Teachable AI",
+  "description": "A browser-based machine learning workstation. Train Logistic Regression, Random Forest, and CNN models directly in your browser using TensorFlow.js, or leverage Gemini 2.5 Flash for advanced zero-shot reasoning.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
